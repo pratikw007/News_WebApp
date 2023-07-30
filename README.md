@@ -6,4 +6,4 @@ This is a News Web App that utilizes the News API to fetch the latest news artic
 
  # Live Demo
  
-Check out the live demo of the News Web App: **[Live Demo](https://pratikw007.github.io/Disney_Hotstar-Clone/)**
+Check out the live demo of the News Web App: **[Live Demo](https://pratikw007.github.io/News_WebApp/)**
